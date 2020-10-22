@@ -1,3 +1,7 @@
 THis is a demo file created by nirmal ram from github
 
 this is line 1 without making any change.
+
+
+THIS IS NEW LINE after making changes from github
+THis is pulled uisng GIT pull command
